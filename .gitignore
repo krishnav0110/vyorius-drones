@@ -1,0 +1,8 @@
+# editor
+.vscode
+
+# build output
+build/
+
+# libraries
+lib/
